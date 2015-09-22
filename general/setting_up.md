@@ -8,6 +8,7 @@ Being proficient with a text editor and being able to open it from the command l
         $ sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl
 
 1. Use it to open files and folders:
+
         $ subl file.py
         $ subl directory/
 
@@ -71,7 +72,7 @@ The `(crimson_comp)` indicates that that the `crimson_comp` virtual environment 
 
 3. If you didn't get any errors, you've successfully installed Pillow! Deactivate your virtual environment by running
 
-        (crimson_comp)$ deactivate
+        deactivate
 
 4. Now that you've deactivated your virtual environment, the `(crimson_comp)` should have disappeared from your prompt, and you should no longer have access to any libraries you installed to that virtual environment. Verify that this is the case by re-running the code from step 2. If you get an error, then you're doing well!
 
