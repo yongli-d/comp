@@ -94,6 +94,6 @@ Find the search box in `__base.html`. The actual search is powered by Google, an
 
 Notice how Google’s JavaScript handles all of the search functionality, and our template is basically just a shell to display what Google does for us. 
 
-**TODO 13:** Describe at a high level how we might implement our own search functionality, say, that searched specifically just tags by the tag name. 
+**TODO 13:** Describe at a high level how we might implement our own search functionality, say, that searched specifically just Content with specific Tags. 
 
 ### That's all, folks! Stay tuned for next time :D
